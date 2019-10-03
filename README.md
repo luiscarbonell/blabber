@@ -1,8 +1,15 @@
 # blabber
 
+**Video Example**
+
 ![Blabber Video Demo](blabber.gif)
 
+**Code Example**
+
 ![Blabber Code Example](blabber.png)
+  
+    
+
 
 ### Interface Options
 
