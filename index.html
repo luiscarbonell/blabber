@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Blabber.js</title>
+  <style>
+    p {
+      font-family: sans-serif;
+    }
+    p:hover {
+      cursor: pointer;
+      color: #333333;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <p id="blabber"></p>
+  <script src="blabber.js"></script>
+  <script type="text/javascript">
+    const blab = new Blabber("#blabber", [
+      "Blabber",
+      "Blabber is a tool",
+      "Blabber is a great tool",
+      "Blabber is a great tool for telling stories.",
+      "Blabber is a great tool for telling immersive & interactive stories.",
+      "Blabber is a great tool for telling immersive & interactive stories. You can create additional context as needed.",
+      "Blabber is a great tool for telling immersive & interactive stories. You can create 'zoomable' text - providing additional context as needed."
+    ]);
+  </script>
+</body>
+</html>
