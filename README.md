@@ -1,6 +1,6 @@
 # blabber
 
-![Blabber Video Demo](blabber.mp4)
+![Blabber Video Demo](blabber.gif)
 
 ![Blabber Code Example](blabber.png)
 
