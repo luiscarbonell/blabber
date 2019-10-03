@@ -7,9 +7,19 @@
 **Code Example**
 
 ![Blabber Code Example](blabber.png)
-  
-    
 
+### Installing
+
+```
+git clone https://github.com/luiscarbonell/blabber
+```
+
+
+### Usage
+
+```javascript
+new Blabber([DOMSelecor][, Blabbers][, Options]);
+```
 
 ### Interface Options
 
